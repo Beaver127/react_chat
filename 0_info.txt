@@ -1,0 +1,4 @@
+npm i react-firebase-hooks - хуки для работы с firebase
+npm i firebase - бд
+npm i react-router-dom - роутинг
+npm install @mui/material @emotion/react @emotion/styled @mui/icons-material --force - готовая вёртска
